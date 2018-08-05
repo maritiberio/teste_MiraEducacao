@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+app = '/Users/mariana/Desktop/automacaoMira/miraApk.apk'
+appPackage = "br.com.veek.app.dev"
+noReset = false
+autoGrantPermissions = true
+appWaitActivity = ''
+automationName = 'UiAutomator2'

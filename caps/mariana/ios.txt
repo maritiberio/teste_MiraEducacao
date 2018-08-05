@@ -1,0 +1,8 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.2"
+deviceName = "iPhone 8 Plus"
+udid = "6818E725-AA16-478F-98A3-69C58EE69A04"
+automationName = "XCUITest"
+app = "/Users/mariana/Desktop/automacaoMira/Mira.app"
+

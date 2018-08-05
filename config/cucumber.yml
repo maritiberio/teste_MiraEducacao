@@ -1,0 +1,14 @@
+# config/cucumber.yml
+##YAML Template
+
+html: --format html --out=reports/features.html
+
+json: -f json -o reports/report.json
+
+android: PLATFORM=android --exclude features/ios
+
+ios: PLATFORM=ios --exclude features/android
+
+mariana: QA=mariana
+
+jenkins: QA=jenkins -f json -o reports/report.json
